@@ -1,0 +1,3 @@
+com/mailService/Mailing/controller/gmailServiceController.class
+com/mailService/Mailing/Model/EmailRequest.class
+com/mailService/Mailing/MailingApplication.class
